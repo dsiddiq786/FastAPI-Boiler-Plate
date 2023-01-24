@@ -31,3 +31,14 @@ Course Contents 🌟
 ⏳  JWT Access Token
 ⏳  Route behind authentication
 ⏳  Deploy fastAPI app
+
+
+
+
+INSTALLATIONS:
+
+1- Download / Clone Repo to your system
+2- Create virtual environment and activate it
+3- Install All dependencies using "pip install -r requirements.txt"
+4- Start uvicorn server "uvicorn blog.main:app --reload"
+5- Enjoy
